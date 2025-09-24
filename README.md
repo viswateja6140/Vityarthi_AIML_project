@@ -27,7 +27,7 @@ A Python toolkit for simulating smart GPS navigation in grid-based maps, support
 │   └── utils.py          # Logging and utilities
 ├── maps/                 # Map files (static & dynamic)
 ├── tests/                # Unit tests
-└── Report & screenshots  # Reports and analysis
+└── Report & Screenshots  # Reports and analysis
 ```
 
 ## Quick Start
